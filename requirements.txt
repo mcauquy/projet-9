@@ -1,0 +1,9 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+
+azure-functions
+pandas
+numpy
+os
+json
+sklearn.metrics.pairwise
+load_data
